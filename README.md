@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dmsadty
+- 👋 Hi, I’m @dmsadtyr
 - 👀 I’m interested in learning html, css, javascript.
 - 🌱 I’m currently learning html and css.
 - 💞️ I’m looking to collaborate on i don't know? hehehe
